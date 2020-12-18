@@ -4,7 +4,7 @@
 
 /* birim matris tanimi:
 		NxN birim matris "N" satir ve "N" sutunu olan bir matristir. Sol ustten
-	sag alta kosegen ustundeki girislerin hepsi "1"dir ve diger girislerin hepsi "0"dir.
+		sag alta kosegen ustundeki girislerin hepsi "1"dir ve diger girislerin hepsi "0"dir.
 */
 
 int main() {
