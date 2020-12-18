@@ -1,3 +1,4 @@
+// Dinamik olarak matris olusturma ve matris toplami hesaplama
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -8,7 +9,7 @@ void yazdir(int **, int , int);
 
 int main(int argc, char *argv[]) {
 	srand(time(NULL));
-	int **matrisA,**matrisB,**matrisC;
+	int **matrisA,**matrisB,**matrisC; // matrisC => matris toplami.
 	int i,j;
 	int satirSayisi,sutunSayisi;
 	printf("satir sayisini giriniz:");
